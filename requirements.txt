@@ -1,0 +1,7 @@
+sphinx
+sphinx_rtd_theme
+myst-parser
+simple-http-server
+nbsphinx
+sphinxcontrib-bibtex
+numpydoc
