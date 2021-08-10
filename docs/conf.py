@@ -61,10 +61,11 @@ nbsphinx_execute = 'never' # Don't execute notebooks upon building
 myst_update_mathjax = False
 mathjax3_config = {
     'tex': {'tags': 'ams', 'useLabelIds': True},
-} # Mathjax config
-mathjax_config = {
-    'TeX': {'equationNumbers': {'autoNumber': 'AMS', 'useLabelIds': True}},
 }
+# Mathjax config
+# mathjax_config = {
+#     'TeX': {'equationNumbers': {'autoNumber': 'AMS', 'useLabelIds': True}},
+# }
 bibtex_bibfiles = ['references.bib']
 
 
